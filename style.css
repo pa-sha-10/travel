@@ -133,7 +133,7 @@ html {
 header {
   width: 100vw;
   height: 100vh;
-  background-image:url("IMAGES/FRONT.jpg");
+  background-image:url("FRONT.jpg");
   background-position: bottom;
   background-attachment: fixed;
   background-size: cover;
@@ -262,7 +262,7 @@ section {
 .explore {
   width: 100%;
   height: 100vh;
-  background-image: url("IMAGES/Mountains.jpg");
+  background-image: url("Mountains.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -366,7 +366,7 @@ section {
 }
 
 #about_us {
-  background: url("IMAGES/EXPLORE.jpg");
+  background: url("EXPLORE.jpg");
   width: 100%;
   height: 630px;
   background-repeat: no-repeat;
